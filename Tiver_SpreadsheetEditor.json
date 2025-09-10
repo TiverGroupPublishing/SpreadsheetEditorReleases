@@ -1,0 +1,14 @@
+{
+  "patchinfo": [
+    {
+      "version": "1.1.0.0",
+      "features": [ "Test update" ],
+      "fixes": []
+    },
+    {
+      "version": "1.0.0.0",
+      "features": [ "Release SpreadsheetEditor" ],
+      "fixes": []
+    }
+  ]
+}
